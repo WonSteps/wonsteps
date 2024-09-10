@@ -1,54 +1,29 @@
-## Jaewon Lee
+## 📌 About Me
 
-Hello!
+### 안녕하세요, 백엔드 개발자 이재원입니다.
 
-### 👋 About Me
+[![Blog](https://img.shields.io/badge/Blog-A212A2?style=for-the-badge&logo=Homepage&logoColor=white)](https://jaewon-pro.github.io)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-009BD5?style=for-the-badge&logo=linkedin&logoColor=white)](https://jaewon-pro.github.io)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaewonlee.pro@gmail.com)
 
-- Aspiring to become a skilled back-end developer.
-- Interested in Functional programming.
+## Interested in
 
----
+- Backend Server Programming
+- Functional Programming
+- Distributed Systems
 
-### Contact
+## Experiences
 
-📫 jaewonlee.pro@gmail.com
+- JaM2in ARCUS 서버 개발팀 Intern (2024.03 - 2024.06)
+- IT 연합 동아리 DND 11기 백엔드 파트 (2024.07 - 2024.08)
+- 교내 정보 보안 동아리 @Xpert 15기 (2019.03 - 2022.06)
 
----
+## Skills
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-60B030?style=flat-square&logo=Spring%20Boot&logoColor=white)]()
+[![Java](https://img.shields.io/badge/Java-C17000?style=flat-square&logo=OpenJDK&logoColor=white)]()
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)]()
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaewon-pro&theme=merko&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### Languages
-![c++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
-![](https://img.shields.io/badge/Kotlin-7f52ff?style=for-the-badge&logo=Kotlin&logoColor=white)
-![](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-
-### Framework
-![](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
-
-![](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-
----
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=quxsd)](https://solved.ac/quxsd)
-
----
-
-
-
-
-<!--
-**Jaewon-pro/jaewon-pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=quxsd)](https://solved.ac/quxsd)-->
