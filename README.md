@@ -2,8 +2,8 @@
 
 ### 안녕하세요, 백엔드 개발자 이재원입니다.
 
-[![Blog](https://img.shields.io/badge/Blog-A212A2?style=for-the-badge&logo=Homepage&logoColor=white)](https://jaewon-pro.github.io)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-009BD5?style=for-the-badge&logo=linkedin&logoColor=white)](https://jaewon-pro.github.io)
+[![Blog](https://img.shields.io/badge/Blog-A212A2?style=for-the-badge&logo=Homepage&logoColor=white)](https://wonsteps.github.io)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-009BD5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/j12)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaewonlee.pro@gmail.com)
 
 ## Interested in
@@ -24,6 +24,6 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)]()
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)]()
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaewon-pro&theme=merko&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wonsteps&theme=merko&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=quxsd)](https://solved.ac/quxsd)-->
