@@ -14,8 +14,8 @@
 
 ## Experiences
 
-- JaM2in ARCUS 서버 개발팀 Intern (2024.03 - 2024.06)
-- IT 연합 동아리 DND 11기 백엔드 파트 (2024.07 - 2024.08)
+- [JaM2in](https://medium.com/jam2in) [ARCUS](https://github.com/naver/arcus) 서버 개발팀 Intern (2024.03 - 2024.06)
+- IT 연합 동아리 [DND](https://github.com/dnd-side-project) 11기 백엔드 파트 (2024.07 - 2024.08)
 - 교내 정보 보안 동아리 @Xpert 15기 (2019.03 - 2022.06)
 
 ## Skills
@@ -24,6 +24,8 @@
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)]()
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)]()
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wonsteps&theme=merko&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=wonsteps&theme=merko&hide_border=false&include_all_commits=false&count_private=true&layout=compact)-->
+
+[![quxsd's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=quxsd)](https://solved.ac/profile/quxsd)
 
 <!--[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=quxsd)](https://solved.ac/quxsd)-->
