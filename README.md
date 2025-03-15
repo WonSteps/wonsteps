@@ -14,9 +14,9 @@
 
 ## Experiences
 
-- [JaM2in](https://medium.com/jam2in) [ARCUS](https://github.com/naver/arcus) 서버 개발팀 Intern (2024.03 - 2024.06)
+- [삼성 청년 SW 아카데미](https://www.ssafy.com) 13기 (2025.01 - 현재)
 - IT 연합 동아리 [DND](https://github.com/dnd-side-project) 11기 백엔드 파트 (2024.07 - 2024.08)
-- 교내 정보 보안 동아리 @Xpert 15기 (2019.03 - 2022.06)
+- [JaM2in](https://medium.com/jam2in) [ARCUS](https://github.com/naver/arcus) 서버 개발팀 Intern (2024.03 - 2024.06)
 
 ## Skills
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-60B030?style=flat-square&logo=Spring%20Boot&logoColor=white)]()
